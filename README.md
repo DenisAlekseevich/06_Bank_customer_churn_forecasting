@@ -1,0 +1,2 @@
+# Bank_customer_churn_forecasting
+Прогнозирование оттока клиента банка
